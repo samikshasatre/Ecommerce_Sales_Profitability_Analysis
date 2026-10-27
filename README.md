@@ -19,7 +19,11 @@ High top-line order volume in retail e-commerce frequently masks severe net prof
 ---
 
 ## 📈 2. Executive Visualizations
-![Executive Charts](./ecommerce_executive_charts (1).png)
+<img
+  src="/ecommerce-executive-charts.png"
+  alt="Executive Charts"
+  className="w-full rounded-lg"
+/>
 
 ---
 
